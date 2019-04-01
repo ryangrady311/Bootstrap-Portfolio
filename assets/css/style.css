@@ -124,3 +124,10 @@ margin-bottom: 15px;
     padding-top: 8px;
     padding-bottom: 1px; 
   }
+
+  #submit-successful-text{
+    padding-top: 15px;
+    color: #4aaaa5;
+    padding-left: 15px;
+
+  }
